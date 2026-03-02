@@ -2,7 +2,7 @@
 
 # `IDB` - Inverter Development Board
 
-The `IDB` is a board with an [CD40106](#additional-information) or any other 6-channel inverter. The board itself can be driven with a voltage from `5-15V`. The board offers the possibility to invert signals from buttons, switches or any other logic board
+The `IDB` is a board with an [CD40106](#additional-information) or any other 6-channel inverter. The board itself can be driven with a voltage from `5-15V`. The board offers the possibility to invert signals from buttons, switches or any other logic board.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
@@ -12,8 +12,8 @@ The `IDB` is a board with an [CD40106](#additional-information) or any other 6-c
 
 | Type      | File                                                                                                                                                 | Description     |
 |:---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------|
-| Schematic | [pdf](https://github.com/0x007E/idb/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/29896/main/files)                   | Schematic files |
-| Board     | [pdf](https://github.com/0x007E/idb/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/29896/main/files)                         | Board file      |
+| Schematic | [pdf](https://github.com/0x007E/idb/releases/latest/download/schematic.pdf) / [cadlab](https://cadlab.io/project/30124/main/files)                   | Schematic files |
+| Board     | [pdf](https://github.com/0x007E/idb/releases/latest/download/pcb.pdf) / [cadlab](https://cadlab.io/project/30124/main/files)                         | Board file      |
 | Drill     | [pdf](https://github.com/0x007E/idb/releases/latest/download/drill.pdf)                                                                              | Drill file      |
 | PCB       | [zip](https://github.com/0x007E/idb/releases/latest/download/kicad.zip) / [tar](https://github.com/0x007E/idb/releases/latest/download/kicad.tar.gz) | KiCAD/Gerber/BoM/Drill files |
 
