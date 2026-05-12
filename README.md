@@ -2,7 +2,7 @@
 
 # `IDB` - Inverter Development Board
 
-The `IDB` is a board with an [CD40106](#additional-information) or any other 6-channel inverter. The board itself can be driven with a voltage from `5-15V`. The board offers the possibility to invert signals from buttons, switches or any other logic board.
+The `IDB` is a board with an [CD40106](#additional-information) or any other 6-channel inverter that meets the pin requirements. The board itself can be driven from `5` to `15V`. The board offers the possibility to invert signals from buttons, switches or any other logic board.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
